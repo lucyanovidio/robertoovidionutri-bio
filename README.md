@@ -1,6 +1,9 @@
 # Projeto de links - Nutri Roberto Ovidio
 
-![Imagem de resultado do projeto](./assets/resultado.png)
+![Imagem de resultado do projeto](./assets/roberto-links.gif)
+<br>
+
+> 🚀 <a href="https://robertoovidionutri-bio.vercel.app">Acesse aqui</a>
 
 ## 💻 Sobre
 
