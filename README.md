@@ -7,7 +7,7 @@
 
 ## 💻 Sobre
 
-Projeto de Link da Bio feito para cliente, o nutricionista <a href="https://instagram.com/robertoovidio.nutri">Roberto Ovidio</a>, através do conteúdo aprendido na Maratona Explorer 2, evento da <a href="https://rocketseat.com.br">Rocketseat</a>.
+Página de links, na propósta de ser usada para biografia no Instagram, feita para cliente, o nutricionista <a href="https://instagram.com/robertoovidio.nutri">Roberto Ovidio</a>, através do conteúdo aprendido na Maratona Explorer 2, evento da <a href="https://rocketseat.com.br">Rocketseat</a>.
 + Confira o <a href="https://github.com/lucyanovidio/maratonas-explorer-rocketseat/tree/main/maratona-explorer-2">Repositório da Maratona Explorer 2 aqui</a>.
 
 ## 🧠 Tecnologias
