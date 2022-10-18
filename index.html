@@ -17,7 +17,6 @@
     <link rel="shortcut icon" href="assets/apple.png" type="image/x-icon" />
 
     <link rel="stylesheet" href="./style.css" />
-    <script type="text/javascript" src="./main.js" defer></script>
   </head>
   <body>
     <main>
@@ -75,5 +74,14 @@
         </p>
       </footer>
     </main>
+    
+    <script>
+      function darkTheme() {
+        document.body.classList.add("dark-theme")
+      }
+      function lightTheme() {
+        document.body.classList.remove("dark-theme")
+      }
+    </script>
   </body>
 </html>
