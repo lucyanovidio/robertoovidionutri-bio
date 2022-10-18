@@ -1,4 +1,4 @@
-# Projeto de links - Nutri Roberto Ovidio
+# Página de links - Nutri Roberto Ovidio
 
 ![Imagem de resultado do projeto](./assets/roberto-links.gif)
 <br>
