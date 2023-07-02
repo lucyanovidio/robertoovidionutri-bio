@@ -80,10 +80,6 @@ ul li {
   list-style: none;
 }
 
-ul li:first-child a {
-  background-color: red;
-}
-
 ul li a {
   display: inline-flex;
   align-items: center;
